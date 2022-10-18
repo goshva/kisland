@@ -17,7 +17,7 @@
 	  	});
 
 	//* Add menu-toggle button
-	$('.nav-primary').before('<button class="menu-toggle toggle-primary" role="button">Menu <span></span><span></span><span></span><span></span></button>');
+	$('.nav-primary').before('<button class="menu-toggle toggle-primary" role="button">Меню <span></span><span></span><span></span><span></span></button>');
 
 	//* Add sub-menu-toggle buttons
 	$('.menu-item-has-children').append(

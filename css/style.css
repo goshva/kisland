@@ -369,7 +369,7 @@ body > div {
 body {
   background-color: #fff;
   color: #2e2d2d;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-size: 1.4rem;
   line-height: 3rem;
@@ -494,7 +494,7 @@ h6 {
   font-weight: 400;
   line-height: 1.2;
   margin: 0 0 1.2rem;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #2e2d2d;
 }
 
@@ -672,7 +672,7 @@ input[type="submit"],
   text-transform: uppercase;
   white-space: nowrap;
   display: inline-block;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   color: white;
   cursor: pointer;
@@ -2270,7 +2270,7 @@ a.post-edit-link {
 
 .single-slide-testimonial-inner header h4 {
   font-weight: 700;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 22px;
   margin-bottom: 15px;
   padding-bottom: 10px;
@@ -2337,7 +2337,7 @@ a.post-edit-link {
 }
 
 .single-slide-author-name p {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 15px;
   color: #42546b;
@@ -2578,7 +2578,7 @@ a.post-edit-link {
   padding: 10px 15px 0px;
   color: white;
   font-size: 15px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .amenities-popup-content a {
@@ -2797,7 +2797,7 @@ a.post-edit-link {
 }
 
 .room-filter-area ul li.filter-label {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   font-size: 60px;
   color: #d66c55;
   padding-right: 5px;
@@ -3088,7 +3088,7 @@ a.post-edit-link {
 }
 
 .single-room-info .single-room-info-inner h3:first-of-type {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   cursor: inherit;
 }
 
@@ -3184,7 +3184,7 @@ a.post-edit-link {
 
 .room-footer .room-amenities h3 {
   color: #4e90ac;
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   font-size: 30px;
 }
 
@@ -3732,7 +3732,7 @@ a.post-edit-link {
 }
 
 .experience-post-content h3:first-of-type {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   color: #f79c88;
   font-size: 35px;
   text-align: left;
@@ -4321,7 +4321,7 @@ span.at-subtitle {
 }
 
 .single-newsevents .events-content h3 {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   color: #f79c88;
   font-size: 35px;
   text-align: left;
@@ -5099,7 +5099,7 @@ body #genesis-content .entry-content .wpsm_nav.wpsm_nav-tabs li a {
   text-decoration: none !important;
   font-size: 14px !important;
   text-align: center !important;
-  font-family: "Quicksand", sans-serif !important;
+  font-family: "Roboto", sans-serif !important;
   text-transform: uppercase;
   margin: 0 5px 10px;
   font-weight: 400;
@@ -5138,7 +5138,7 @@ body #genesis-content .entry-content .wpsm_nav.wpsm_nav-tabs li.active a:hover {
   line-height: 1;
   padding: 5px;
   margin: 0;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .instagram-links a span {
@@ -5180,7 +5180,7 @@ body #genesis-content .entry-content .wpsm_nav.wpsm_nav-tabs li.active a:hover {
 .single-testimonial blockquote {
   padding: 0;
   margin: 0;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 17px;
   font-weight: 400;
   color: #767676;
@@ -5639,7 +5639,7 @@ div.css-search {
 .header-cta p {
   margin: 0;
   color: white;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .header-cta p span {
@@ -5701,7 +5701,7 @@ div.css-search {
   height: 34px;
   padding: 0;
   font-weight: bold;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   background: url(../images/TIbX2cm82gcL.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -6015,7 +6015,7 @@ div.css-search {
 
 .genesis-nav-menu li a {
   color: #fff;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   display: block;
   text-transform: uppercase;
@@ -6530,7 +6530,7 @@ div.css-search {
     z-index: 1000;
     float: right;
     text-transform: uppercase;
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 17px;
     top: 0px;
@@ -6560,7 +6560,7 @@ div.css-search {
     right: 0;
     width: 25px;
     height: 2px;
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #fff;
     display: block;
     float: left;
@@ -6719,7 +6719,7 @@ div.css-search {
 
 .slider-cta-inner .n-heading h3 {
   font-size: 15px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   color: white;
@@ -6805,7 +6805,7 @@ div.css-search {
   height: 48px;
   padding: 0;
   font-weight: bold;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: rgba(1, 98, 167, 0.45);
   background-image: url(../images/TIbX2cm82gcL.png);
   background-size: 45%;
@@ -6907,7 +6907,7 @@ div.css-search {
   bottom: auto;
   z-index: 1;
   text-align: center;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: white;
   width: 100%;
   z-index: 2;
@@ -6923,7 +6923,7 @@ div.css-search {
 .slider-caption .slider-lead {
   color: white;
   font-size: 30px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   margin-bottom: 15px;
   line-height: 1.1;
@@ -6978,7 +6978,7 @@ div.css-search {
   line-height: 1.2;
   z-index: 2;
   font-weight: 300;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   letter-spacing: 6px;
   margin-bottom: 15px;
 }
@@ -7349,7 +7349,7 @@ border:none!important; */
 }
 
 .comment-form label {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
@@ -7634,7 +7634,7 @@ border:none!important; */
   height: 34px;
   padding: 0;
   font-weight: bold;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   background: url(../images/TIbX2cm82gcL.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -7927,7 +7927,7 @@ border:none!important; */
 
 .after-footer .menu li a {
   color: white;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500 !important;
   font-size: 15px;
 }
@@ -8061,7 +8061,7 @@ border:none!important; */
   font-weight: 400;
   font-size: 40px;
   margin-bottom: 15px;
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   color: #000;
 }
 
@@ -8101,7 +8101,7 @@ border:none!important; */
 }
 
 .room-sec-inner .room-content .room-content-inner .pre-heading {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #000000;
   font-size: 18px;
   font-weight: 300;
@@ -8310,7 +8310,7 @@ border:none!important; */
   padding-top: 15px;
   margin-bottom: 10px;
   font-size: 20px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   letter-spacing: 4px;
   text-align: left;
 }
@@ -8453,7 +8453,7 @@ border:none!important; */
 
 .front-page-2 .pre-heading,
 .front-page-4 .pre-heading {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   color: white;
   font-size: 30px;
   margin-bottom: 10px;
@@ -8784,7 +8784,7 @@ border:none!important; */
 }
 
 .food_menu_inner .food_menu_content_inner h3 {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   text-align: center;
   font-size: 45px;
 }
@@ -9023,7 +9023,7 @@ border:none!important; */
 
 .front-page-4 .amenities_block-content h3 {
   color: inherit;
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   text-align: left;
   margin-bottom: 5px;
   font-size: 70px;
@@ -9297,7 +9297,7 @@ border:none!important; */
   text-align: center;
   color: #000;
   font-weight: 300;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   text-align: center;
   margin: 20px auto 0px;
@@ -9341,7 +9341,7 @@ border:none!important; */
   font-weight: 400;
   font-size: 40px;
   margin-bottom: 15px;
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   color: #000;
 }
 
@@ -9381,7 +9381,7 @@ border:none!important; */
 }
 
 .wedding-section-inner .wedding-content .pre-heading {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #000000;
   font-size: 18px;
   font-weight: 300;
@@ -9593,7 +9593,7 @@ border:none!important; */
 
 .amenities-block-1-inner h3 {
   color: #4e90ac;
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   margin: 0;
   position: relative;
   font-size: 35px;
@@ -9654,7 +9654,7 @@ border:none!important; */
 }
 
 .front-page-6 .sec-h {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   color: #5d5e5d;
   text-align: center;
   padding: 0px 15px;
@@ -9828,7 +9828,7 @@ border:none!important; */
 .instagram-feed-sec .insta-head h3 {
   margin-bottom: 0px;
   font-size: 60px;
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
 }
 
 @media (min-width: 768px) {
@@ -10973,7 +10973,7 @@ background-color: #000; */
   color: white;
   text-shadow: 1px 2px 2px rgba(0, 0, 2, 0.3);
   display: inline-block;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   /*    background: rgba($primary,.5); */
   padding: 4px 15px;
   text-transform: capitalize;
@@ -11387,7 +11387,7 @@ background-color: #000; */
 }
 
 .press-page-1 .press-welcome-block h3:first-of-type {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", cursive;
   cursor: inherit;
   text-align: center;
 }
@@ -11832,7 +11832,7 @@ Loaded on WooCommerce pages */
   border-radius: 0px;
   color: #fff;
   cursor: pointer;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 12px;
   text-transform: uppercase;
   font-size: 1.2rem;
@@ -11854,7 +11854,7 @@ Loaded on WooCommerce pages */
   box-shadow: 0 4px 0 0 #f58870;
   font-size: 14px;
   border: 1px solid #f79c88;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   padding: 11px 20px;
   -webkit-transition: all .3s ease;
@@ -11872,7 +11872,7 @@ Loaded on WooCommerce pages */
   box-shadow: 0 4px 0 0 #f58870;
   font-size: 16px;
   border: 1px solid #f79c88;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   padding: 15px 20px;
   -webkit-transition: all .3s ease;
@@ -12598,7 +12598,7 @@ body ul.products.columns-4 li {
   padding: 8px 15px !important;
   background: #f79c88;
   color: white;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 600;
   display: block;
   font-size: 14px !important;
