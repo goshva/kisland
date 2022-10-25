@@ -911,6 +911,29 @@
             <li data-filter="week" class="all-events-filter__item js_event_filter "><a href="?daterange=week">Эта неделя</a></li>
             <li data-filter="weekend" class="all-events-filter__item js_event_filter "><a href="?daterange=weekend">В эти выходные</a></li>
         </ul>
+        <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        .all-events-filter{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            width: 250px;
+            margin: 0 auto;
+        }
+        .all-events-filter>*{
+            width: 120px;
+            text-align: center;
+        }
+        buttonall-events-filter{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
         <script>
             $(function () {
                 if ($('.next_page').length) {
