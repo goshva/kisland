@@ -39128,7 +39128,7 @@ div.css-search {
   z-index: 2;
   top: 30%;
   text-shadow: 1px 1px 3px black;
-  background: linear-gradient(#f79c8844 46%, #86c4db22 69%);
+ /* background: linear-gradient(#f79c8844 46%, #86c4db22 69%);*/
 }
 @media (min-width: 768px) {
   .slider-caption {

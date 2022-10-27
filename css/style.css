@@ -5386,7 +5386,7 @@ div.css-search {
 }
 
 .scroll-header.site-header .nav-primary {
-  background: #87c5dc;
+  background-color: #00bfff;
 }
 
 @media (min-width: 1200px) {
@@ -5394,7 +5394,6 @@ div.css-search {
     margin-top: 0px;
   }
 }
-
 /* ## Before Header widget area
 --------------------------------------------- */
 .before-header {
