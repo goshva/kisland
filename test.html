@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Jquery Horizontal Calendar Plugin</title>
+
+
+    </head>
+
+    <body>
+        
+        <div class="wrapper">
+            <h4>Афиша</h4>
+            <div class="rescalendar" id="my_calendar_calSize"></div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="../src/js/moment.js"></script>
+        <script src="../src/js/rescalendar.js"></script>
+        
+        <script>
+            
+            $(function(){
+
+                $('#my_calendar_calSize').rescalendar({
+                    id: 'my_calendar_calSize',
+                    jumpSize: 5,
+                    calSize: 15,
+                    dataKeyField: 'name',
+                    // no used : disabledDays: ['2022-11-01', '2022-11-07', '2022-11-18', '2022-11-19', '2022-12-01', '2022-12-02', '2022-12-13'],
+
+                    // not work : format: 'DD-MM-YYYY',
+                    lang: {
+                        'today': 'Сегодня',
+                        'init_error': 'Error al inicializar',
+                        'no_data_error' : 'No se encontraron datos para mostrar'
+                    },
+                    data: [
+                    {
+                            id: 1,
+                            name: 'item1',
+                            startDate: '202-11-01',
+                            endDate: '2022-11-03',
+                            customClass: 'greenClass'
+                        },
+                        {
+                            id: 2,
+                            name: 'item2',
+                            startDate: '2022-11-05',
+                            endDate: '2022-11-15',
+                            customClass: 'blueClass',
+                            title: 'Title 2 en'
+                        },
+                        {
+                            id: 3,
+                            name: 'item5',
+                            startDate: '2022-11-05',
+                            endDate: '2022-11-08',
+                            customClass: 'greenClass'
+                        }
+                    ],
+
+                    dataKeyField: 'name',
+                    dataKeyValues: ['item1', 'item2', 'item3','item4','item5']
+                });
+
+
+
+
+            });
+
+        </script>
+
+    </body>
+
+</html>
