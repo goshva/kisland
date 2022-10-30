@@ -125,8 +125,8 @@ Copyright (c) 2019 César Chas
                 text    = '';
 
                 html += '<tr class="dataRow">';
-                html += '<td class="firstColumn">' + name + '</td>';
-                
+//                html += '<td class="firstColumn">' + name + '</td>';
+/*                
                 for( var j=0; j < arr_dates.length; j++ ){
 
                     strAttr  = '';
@@ -169,10 +169,11 @@ Copyright (c) 2019 César Chas
                     html += '<td ' + strAttr + ' data-id="' + obj_data.id + '" data-date="' + date + '" data-name="' + name + '" class="data_cell ' + hasEventClass + ' ' + customClass + ' ' + clase_today + '">' + content + '</td>';
              
                 }
-
+*/
                 html += '</tr>';
 
             }
+
 
             targetObj.find('.rescalendar_data_rows').html( html );
         }
